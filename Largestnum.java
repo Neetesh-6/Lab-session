@@ -1,3 +1,4 @@
+//Create a program to find largest of two numbers
 package CoreJava;
 import java.util.Scanner;
 public class Largestnum 
